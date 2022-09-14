@@ -6,7 +6,7 @@
 #### Average Time Taken : 7 hours
 
 - #### Here is the link 
-- [Link](https://img.shields.io/badge/Html-Tailwind%20CSS-lightgrey)
+- [Link](https://rode-aivy-ineuron.netlify.app/)
 
 - ![](https://img.shields.io/badge/Html-Tailwind%20CSS-lightgrey)
 
